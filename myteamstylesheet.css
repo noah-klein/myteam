@@ -1,5 +1,6 @@
 .page-header {
   color: #F5002F;
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
 }
 .container {
   width:80%;
@@ -7,4 +8,13 @@
 }
 .table {
   color: white;
+}
+#heading {
+  text-align: center;
+  color: white;
+  font-size: 150%;
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+.table {
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
 }
